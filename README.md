@@ -1,6 +1,8 @@
 # webScraping-with-nodejs-puppeteer
 
-<h1>include puppeteer on your project:</h1>
+WARNİNG: You have to install puppeteer, otherwise it's not working !
+
+<h2>include puppeteer on your project:</h2>
 
 <h3>*first - installing*</h3>
 
