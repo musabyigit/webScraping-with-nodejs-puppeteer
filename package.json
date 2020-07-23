@@ -1,0 +1,25 @@
+{
+  "name": "webScraping-with-nodejs-puppeteer",
+  "version": "1.0.0",
+  "description": "include puppeteer on your project:",
+  "main": "index.js",
+  "dependencies": {
+    "nodemailer": "^6.4.10",
+    "puppeteer": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musabyigit/webScraping-with-nodejs-puppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musabyigit/webScraping-with-nodejs-puppeteer/issues"
+  },
+  "homepage": "https://github.com/musabyigit/webScraping-with-nodejs-puppeteer#readme"
+}
